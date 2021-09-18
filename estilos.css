@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 0%), url(img/lovelive.jpg);
+    background-image: linear-gradient(to top, rgba(255, 136, 221, 0.486) 0%, hsla(216, 21%, 76%, 0.514) 100%), url(img/lovelive.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
